@@ -1,0 +1,15 @@
+C:\Users\gregoire.bouteillier\source\repos\AdventOfCode2024Day3\bin\Debug\net8.0\AdventOfCode2024Day3.exe
+C:\Users\gregoire.bouteillier\source\repos\AdventOfCode2024Day3\bin\Debug\net8.0\AdventOfCode2024Day3.deps.json
+C:\Users\gregoire.bouteillier\source\repos\AdventOfCode2024Day3\bin\Debug\net8.0\AdventOfCode2024Day3.runtimeconfig.json
+C:\Users\gregoire.bouteillier\source\repos\AdventOfCode2024Day3\bin\Debug\net8.0\AdventOfCode2024Day3.dll
+C:\Users\gregoire.bouteillier\source\repos\AdventOfCode2024Day3\bin\Debug\net8.0\AdventOfCode2024Day3.pdb
+C:\Users\gregoire.bouteillier\source\repos\AdventOfCode2024Day3\obj\Debug\net8.0\AdventOfCode2024Day3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gregoire.bouteillier\source\repos\AdventOfCode2024Day3\obj\Debug\net8.0\AdventOfCode2024Day3.AssemblyInfoInputs.cache
+C:\Users\gregoire.bouteillier\source\repos\AdventOfCode2024Day3\obj\Debug\net8.0\AdventOfCode2024Day3.AssemblyInfo.cs
+C:\Users\gregoire.bouteillier\source\repos\AdventOfCode2024Day3\obj\Debug\net8.0\AdventOfCode2024Day3.csproj.CoreCompileInputs.cache
+C:\Users\gregoire.bouteillier\source\repos\AdventOfCode2024Day3\obj\Debug\net8.0\AdventOfCode2024Day3.sourcelink.json
+C:\Users\gregoire.bouteillier\source\repos\AdventOfCode2024Day3\obj\Debug\net8.0\AdventOfCode2024Day3.dll
+C:\Users\gregoire.bouteillier\source\repos\AdventOfCode2024Day3\obj\Debug\net8.0\refint\AdventOfCode2024Day3.dll
+C:\Users\gregoire.bouteillier\source\repos\AdventOfCode2024Day3\obj\Debug\net8.0\AdventOfCode2024Day3.pdb
+C:\Users\gregoire.bouteillier\source\repos\AdventOfCode2024Day3\obj\Debug\net8.0\AdventOfCode2024Day3.genruntimeconfig.cache
+C:\Users\gregoire.bouteillier\source\repos\AdventOfCode2024Day3\obj\Debug\net8.0\ref\AdventOfCode2024Day3.dll
